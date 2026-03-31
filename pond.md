@@ -183,7 +183,7 @@ Need generate the information for each field based on the text below.(Don't chan
 
 After the bounty is submitted, the Pond team will review the bounty to ensure scope, and will only make changes that remove ambiguity.
 
-# 3. Reference Docs
+# 3. Reference Docs——IF you need answer the Pond question then Reference this part
 
 ## 3.1 How To Launch Bounties
 
